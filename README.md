@@ -1,6 +1,6 @@
 # EXAMPLE-README-SOLO
 
-# Display Pop Up Solo Project 
+# DESCRIPTIVE-TITLE Solo Project 
 ### A repo made to test Semantic-UI-React's NPM that has a popup modal that display's necessary info.
 
 ### Things learned:
@@ -10,8 +10,6 @@
 
 ### Overall, a productive project which allowed for better understanding of Pop Up Modals.
 
-*  If you're looking at my work make sure to look at the ThirdCarsousel.js file, as that is the final and polished version.
-
 ## Preview of work done:
 ### Image of Pop-up-Bar displaying dynamic info and picures
 ![image](https://user-images.githubusercontent.com/52723004/93537418-6b6c9c00-f919-11ea-80de-e61a76117757.png)
@@ -19,7 +17,7 @@
 ### Image of the Pop-up-Bar's integrated and dynamic Carousel 
 ![image](https://user-images.githubusercontent.com/52723004/93537444-7d4e3f00-f919-11ea-94d4-43ab6a3205a9.png)
 
-## KEY NOTES:
+## KEY NOTES: ONLYADDIFYOUNEEDDISCLAIMERS!!!
 * The first Carousel was made with Bootstrap NPM 
 * The second Carousel was made with Alice-Carousel NPM in a `Class` Component 
 * The third Carousel was made with Alice-Carousel NPM in a `Function` Component 
