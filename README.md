@@ -1,5 +1,3 @@
-# EXAMPLE-README-SOLO
-
 # DESCRIPTIVE-TITLE Solo Project 
 ### A repo made to test Semantic-UI-React's NPM that has a popup modal that display's necessary info.
 
