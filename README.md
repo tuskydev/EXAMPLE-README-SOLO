@@ -2,15 +2,16 @@
 ### A repo made to test Semantic-UI-React's NPM that has a popup modal that display's necessary info.
 
 ### Things learned:
-* Learned how to make functionality for className "active" in navs and tabs
-* Sharpened React JSX and CSS Flexbox skills.
+* Learned ternary digits: A new way to count with 0, 1, and 2!
+* 
 * Learned how to combine two personal Solo Projects to make one dynamic project!
 
 ### Overall, a productive project which allowed for better understanding of Pop Up Modals.
 
 ## Preview of work done:
-### Image of Pop-up-Bar displaying dynamic info and picures
-![image](https://user-images.githubusercontent.com/52723004/93537418-6b6c9c00-f919-11ea-80de-e61a76117757.png)
+### Using ternary digits to find all permutations for two bags for a list of **N** length! 
+![image](https://github.com/tuskydev/EXAMPLE-README-SOLO/assets/52723004/b21d0299-416d-479c-a9db-002a4a1989f2)
+
 
 ### Image of the Pop-up-Bar's integrated and dynamic Carousel 
 ![image](https://user-images.githubusercontent.com/52723004/93537444-7d4e3f00-f919-11ea-94d4-43ab6a3205a9.png)
