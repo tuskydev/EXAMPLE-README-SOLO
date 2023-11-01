@@ -3,7 +3,7 @@
 
 ### Things learned:
 * Learned ternary digits: A new way to count with 0, 1, and 2!
-* 
+* Optimized code using dynamic programming
 * Learned how to combine two personal Solo Projects to make one dynamic project!
 
 ### Overall, a productive project which allowed for better understanding of Pop Up Modals.
