@@ -1,4 +1,4 @@
-# DESCRIPTIVE-TITLE Solo Project 
+# MIT 6.00.2x Solo Project 
 ### A repo made to test Semantic-UI-React's NPM that has a popup modal that display's necessary info.
 
 ### Things learned:
