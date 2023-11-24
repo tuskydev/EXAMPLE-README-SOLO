@@ -4,7 +4,7 @@
 ### Things learned:
 * Learned how to make functionality for className "active" in navs and tabs
 * Sharpened React JSX and CSS Flexbox skills.
-- Learned how to combine two personal Solo Projects to make one dynamic project!
+* Learned how to combine two personal Solo Projects to make one dynamic project!
 
 ### Overall, a productive project which allowed for better understanding of Pop Up Modals.
 
